@@ -37,4 +37,4 @@ you can also view every single rib as follows:
 - **some python packages**: [`skimage`](https://scikit-image.org/), [`opencv`](https://opencv.org/), [`tensorflow`](https://www.tensorflow.org/), [`sklearn`](https://scikit-learn.org/)
 
 ### Note
-REFED is still in progress. So we cannot open source code of REFED due to business reasons. If you are intereted in the program and want to to more details, please send an e-mail to me. Thanks for your understanding.
+REFED is still in progress. So we cannot open source code of REFED due to business reasons. If you are intereted in the program and want to know more details, please send an e-mail to me. Thanks for your understanding.
